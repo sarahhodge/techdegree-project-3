@@ -1,2 +1,2 @@
-const setFocus = document.getElementsById('name').focus;
+const setFocus = document.getElementById('name').focus;
 document.write(setFocus);
